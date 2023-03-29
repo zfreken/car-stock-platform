@@ -33,7 +33,7 @@ const onSave = () => {
 <template>
   <div class="edit">
     <div class="title">
-      <h1>Edit page {{ id }}</h1>
+      <h1>Edit car stock infocsc</h1>
       <RouterLink class="title__link" to="/">Back</RouterLink>
     </div>
     <form class="form" @submit.prevent="onSubmit">

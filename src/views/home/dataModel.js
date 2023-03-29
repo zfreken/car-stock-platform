@@ -1,6 +1,6 @@
 export const dataModel = {
   id: 'ID',
-  carId: 'Card ID',
+  carId: 'Car ID',
   inStock: 'In Stock',
   hp: 'HP',
   price: 'Price',
