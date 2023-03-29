@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "carId": "48zi88bhxi6o69f",
+    "inStock": true,
+    "hp": 248,
+    "price": "1246464.789",
+    "color": "yellow"
+  },
+  {
+    "id": 2,
+    "carId": "mvko1bxw7s97mfo",
+    "inStock": false,
+    "hp": 136,
+    "price": "503456.789",
+    "color": "magenta"
+  },
+  {
+    "id": 3,
+    "carId": "542ocm8721s5p0l",
+    "inStock": false,
+    "hp": 110,
+    "price": "203456.789",
+    "color": "red"
+  },
+  {
+    "id": 4,
+    "carId": "jtwxu6psor78ote",
+    "inStock": true,
+    "hp": 163,
+    "price": "13456.000",
+    "color": "white"
+  },
+  {
+    "id": 5,
+    "carId": "tahv756i3091j9a",
+    "inStock": true,
+    "hp": 155,
+    "price": "156056.000",
+    "color": "black"
+  },
+  {
+    "id": 6,
+    "carId": "ouwe1srrmw5jcbv",
+    "inStock": false,
+    "hp": 149,
+    "price": "126056.000",
+    "color": "cyan"
+  },
+  {
+    "id": 7,
+    "carId": "c6pgw258u0m3tjf",
+    "inStock": true,
+    "hp": 123,
+    "price": "184056.000",
+    "color": "gold"
+  },
+  {
+    "id": 8,
+    "carId": "68l3y1myfztgcyw",
+    "inStock": false,
+    "hp": 120,
+    "price": "146000.000",
+    "color": "cyan"
+  },
+  {
+    "id": 9,
+    "carId": "h397pd6r5jp1t7q",
+    "inStock": true,
+    "hp": 150,
+    "price": "123056.000",
+    "color": "ivory"
+  },
+  {
+    "id": 10,
+    "carId": "t4l8b9i0qtp3ddi",
+    "inStock": true,
+    "hp": 198,
+    "price": "164056.000",
+    "color": "orange"
+  },
+  {
+    "id": 11,
+    "carId": "g9cimgd21uwyolb",
+    "inStock": false,
+    "hp": 124,
+    "price": "173056.000",
+    "color": "lavender"
+  },
+  {
+    "id": 12,
+    "carId": "je4k70617a5rjwx",
+    "inStock": true,
+    "hp": 160,
+    "price": "121056.000",
+    "color": "fuchsia"
+  },
+  {
+    "id": 13,
+    "carId": "zck94m12b7e0n9z",
+    "inStock": true,
+    "hp": 113,
+    "price": "181056.000",
+    "color": "cyan"
+  },
+  {
+    "id": 14,
+    "carId": "5unzf8o4y9gfa5y",
+    "inStock": false,
+    "hp": 119,
+    "price": "264056.000",
+    "color": "fuchsia"
+  },
+  {
+    "id": 15,
+    "carId": "5kqnlbdyhfjb0w2",
+    "inStock": true,
+    "hp": 177,
+    "price": "109056.000",
+    "color": "olive"
+  },
+  {
+    "id": 16,
+    "carId": "vwj83hsxg2wd24b",
+    "inStock": false,
+    "hp": 174,
+    "price": "113056.000",
+    "color": "azure"
+  },
+  {
+    "id": 17,
+    "carId": "h9qvcax78qmlp8s",
+    "inStock": false,
+    "hp": 277,
+    "price": "140056.000",
+    "color": "plum"
+  },
+  {
+    "id": 18,
+    "carId": "ux6bp1pn6eo3tim",
+    "inStock": true,
+    "hp": 150,
+    "price": "182056.000",
+    "color": "orange"
+  },
+  {
+    "id": 19,
+    "carId": "q2dglm9voc0rtua",
+    "inStock": true,
+    "hp": 182,
+    "price": "146056.000",
+    "color": "midnightblue"
+  },
+  {
+    "id": 20,
+    "carId": "0113yx224b0w4oi",
+    "inStock": true,
+    "hp": 169,
+    "price": "184056.000",
+    "color": "grey"
+  }
+]
