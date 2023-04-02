@@ -60,4 +60,16 @@ defineProps({
     }
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  .table {
+    &__tbody {
+      tr {
+        &:nth-child(odd) {
+          background: #404040;
+        }
+      }
+    }
+  }
+}
 </style>

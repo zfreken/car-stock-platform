@@ -33,7 +33,7 @@ const onSave = () => {
 <template>
   <div class="edit">
     <div class="title">
-      <h1>Edit car stock infocsc</h1>
+      <h1>Edit Car Stock</h1>
       <RouterLink class="title__link" to="/">Back</RouterLink>
     </div>
     <form class="form" @submit.prevent="onSubmit">
@@ -101,6 +101,7 @@ const onSave = () => {
     border: 1px solid #e8e8e8;
     border-radius: 5px;
     width: 100%;
+    color: #323232;
   }
   &__check {
     margin-right: 7px;
